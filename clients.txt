@@ -1,0 +1,2 @@
+{"id":461607293,"is_bot":false,"first_name":"Ilya","last_name":"Sinitsa","username":"ilyasinitsa","language_code":"ru"}
+{"id":376229793,"is_bot":false,"first_name":"Echo","username":"Echo_N1","language_code":"en"}
